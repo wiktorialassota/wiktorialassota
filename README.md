@@ -11,7 +11,7 @@ I’m a curious and driven **software engineer** who loves building user-centric
 
 - 🔥 **Always Learning**: React, TypeScript, & Java are my current focus.
 - 💻 **Creating**: Responsive web apps with style and functionality.
-- 🎮 **Gaming Enthusiast**: When I'm not coding, I'm exploring new game worlds or reading medieval fantasy.
+- 🎮 **Gaming Enthusiast**: When I'm not coding, I'm exploring new game worlds or reading history books.
 
 ---
 
