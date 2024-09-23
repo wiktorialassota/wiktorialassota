@@ -38,7 +38,7 @@ I’m a curious and driven **software engineer** who loves building user-centric
 ---
 
 ### 🧑‍💻 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wiktoria-lassota-5a49a22a0)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktoria-lassota-5a49a22a0)  
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiktorialassota@gmail.com)
 
 ---
